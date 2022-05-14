@@ -1,0 +1,2 @@
+# TechPortfolio_Study-Progress_Whitney-Prajna-Pundarika
+Hello! My name is Whitney Prajna Pundarika. This repository folder contains the progress of my studies while studying at the Information Systems major at BINUS University. I will give some results that I have worked on from the 1st semester until now (4th semester), namely programming languages such as Java Basic to Java Advance, Database systems using MySQL. I also studied the basic Python programming language. There is some source code and an explanation of the projects in the portfolio.
